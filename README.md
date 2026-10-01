@@ -20,7 +20,7 @@ The remaining datasets and training code will be made publicly available upon th
   title={SRJudge: Empowering Large Language Models with Selective Reasoning for Fine-Grained Knowledge Concept Tagging},
   author={Yang, Zhiwei and Yang, Jiahua and Lin, Huiru and Chen, Xing and Guan, Quanlong},
   booktitle={Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI)},
-  pages={xx--xx},
+  pages={6036--6044},
   month={August},
   year={2026}
 }
